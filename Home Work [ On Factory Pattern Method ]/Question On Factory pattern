@@ -1,0 +1,11 @@
+'''
+Factory Pattern Questions
+
+    => Explain the Factory Pattern with an example.
+    => Why do we use the Factory Pattern instead of creating objects directly?
+    => How does the Factory Pattern improve maintainability and scalability?
+    => What is the difference between Factory Pattern and Abstract Factory Pattern?
+    => Can you modify the Factory Pattern to allow multiple meal items in a single order?
+    => How would you implement a Singleton Factory class?
+
+'''
