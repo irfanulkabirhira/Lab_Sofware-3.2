@@ -1,0 +1,11 @@
+'''
+Singleton Pattern Questions
+
+    => What is the Singleton Pattern, and where is it used in real life?
+    => How do you ensure a class follows the Singleton Pattern in Python?
+    => What are the possible drawbacks of the Singleton Pattern?
+    => How do you make a Singleton thread-safe in Python?
+    => Modify your Singleton class to allow only 5 active orders at a time.
+    => How would you implement a lazy initialization Singleton in Python?
+
+'''
